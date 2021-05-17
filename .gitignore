@@ -9,7 +9,8 @@
 [Oo]bj/
 [Tt]emp/
 [Uu]nityGenerated/
-platformversion2/build*
+platformversion2/buildplat*
+buildplat*
 # file on crash reports
 sysinfo.txt
 # Unity3D generated meta files
