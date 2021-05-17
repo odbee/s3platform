@@ -1,0 +1,196 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6616559189457354618
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6616559189457354616}
+  - component: {fileID: 6616559189457354619}
+  m_Layer: 0
+  m_Name: Scripts
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6616559189457354616
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6616559189457354618}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6616559189457354619
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6616559189457354618}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 527617f66212021489a56ef6afbd7c66, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _toggleIcons:
+  - toggle: {fileID: 0}
+    val1: 30
+    val2: 10
+    val3: 5
+    val4: 0
+  - toggle: {fileID: 0}
+    val1: 0
+    val2: 40
+    val3: 0
+    val4: 0
+  - toggle: {fileID: 0}
+    val1: 0
+    val2: 0
+    val3: 20
+    val4: 35
+  - toggle: {fileID: 0}
+    val1: 0
+    val2: 0
+    val3: 47
+    val4: 25
+  - toggle: {fileID: 0}
+    val1: 0
+    val2: 0
+    val3: 0
+    val4: 124
+  - toggle: {fileID: 0}
+    val1: 24
+    val2: 0
+    val3: 0
+    val4: 0
+  - toggle: {fileID: 0}
+    val1: 0
+    val2: 57
+    val3: 0
+    val4: 0
+  - toggle: {fileID: 0}
+    val1: 0
+    val2: 0
+    val3: -60
+    val4: 0
+  - toggle: {fileID: 0}
+    val1: 25
+    val2: 0
+    val3: 80
+    val4: 0
+  - toggle: {fileID: 0}
+    val1: 45
+    val2: 0
+    val3: 0
+    val4: 0
+  - toggle: {fileID: 0}
+    val1: 0
+    val2: 0
+    val3: 45
+    val4: 45
+  - toggle: {fileID: 0}
+    val1: 0
+    val2: 24
+    val3: 67
+    val4: 0
+  - toggle: {fileID: 0}
+    val1: 0
+    val2: 45
+    val3: 0
+    val4: 0
+  - toggle: {fileID: 0}
+    val1: 0
+    val2: 70
+    val3: 0
+    val4: 25
+  - toggle: {fileID: 0}
+    val1: 0
+    val2: 0
+    val3: 0
+    val4: 0
+  - toggle: {fileID: 0}
+    val1: 58
+    val2: 0
+    val3: 0
+    val4: 0
+  - toggle: {fileID: 0}
+    val1: 75
+    val2: 0
+    val3: 0
+    val4: 35
+  - toggle: {fileID: 0}
+    val1: 40
+    val2: 0
+    val3: 60
+    val4: 0
+  - toggle: {fileID: 0}
+    val1: 10
+    val2: 0
+    val3: 0
+    val4: 0
+  - toggle: {fileID: 0}
+    val1: 0
+    val2: 70
+    val3: 25
+    val4: 0
+  - toggle: {fileID: 0}
+    val1: 0
+    val2: 0
+    val3: 50
+    val4: 0
+  - toggle: {fileID: 0}
+    val1: 40
+    val2: 0
+    val3: 0
+    val4: 60
+  - toggle: {fileID: 0}
+    val1: 0
+    val2: 34
+    val3: 0
+    val4: 0
+  - toggle: {fileID: 0}
+    val1: 0
+    val2: 25
+    val3: 40
+    val4: 0
+  - toggle: {fileID: 0}
+    val1: 0
+    val2: 0
+    val3: 0
+    val4: 0
+  - toggle: {fileID: 0}
+    val1: 40
+    val2: 25
+    val3: -80
+    val4: 10
+  - toggle: {fileID: 0}
+    val1: -40
+    val2: 19
+    val3: 0
+    val4: 34
+  - toggle: {fileID: 0}
+    val1: 15
+    val2: 25
+    val3: 15
+    val4: 0
+  - toggle: {fileID: 0}
+    val1: 0
+    val2: 25
+    val3: 0
+    val4: 0
+  - toggle: {fileID: 0}
+    val1: 50
+    val2: 0
+    val3: 0
+    val4: 25
