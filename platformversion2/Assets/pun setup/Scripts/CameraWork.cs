@@ -218,7 +218,7 @@ namespace Photon.Pun.Demo.PunBasics
 
 			Vector3 drip2 = cameraTransform.transform.eulerAngles;
 
-			character.transform.rotation = Quaternion.Euler(0, cameraTransform.transform.rotation.eulerAngles.y,0);
+            //character.transform.rotation = Quaternion.Euler(0, cameraTransform.transform.rotation.eulerAngles.y,0);
             //character.transform.Rotate(0.0f, -drip.y + drip2.y, 0.0f, Space.World);
 
             //character.transform.Rotate(0.0f, -Mathf.Atan(offp.x / offp.y) / 2, 0.0f, Space.World);
